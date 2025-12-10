@@ -86,10 +86,23 @@ Hardhat / Truffle for contract deployment
 
 ![Dashboard Screenshot]: 
 
-![Waitlist Page]: 
+** Admin:
+
+<img width="434" height="215" alt="image" src="https://github.com/user-attachments/assets/08d52c59-ba77-4a6c-b00f-d868693fb8ad" />
+
+
+** Student: 
+
+<img width="441" height="199" alt="image" src="https://github.com/user-attachments/assets/d72f4f76-9937-4d3e-b3b2-8a386fa4284f" />
+
+<img width="459" height="232" alt="image" src="https://github.com/user-attachments/assets/2f45a970-de2c-46f0-bd81-b99f8c5c0120" />
+
 
 
 ![Blockchain Record]: 
+
+<img width="458" height="151" alt="image" src="https://github.com/user-attachments/assets/4e006681-b720-41f7-9271-0e64ab170889" />
+
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
